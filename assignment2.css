@@ -65,9 +65,8 @@
     align-items: center;
     justify-content: center;
 }
-
-
-
-
-    
- 
+.content .image{
+    width: 55%;
+    margin-top: 70px;
+    margin-left: 20px;
+}
